@@ -29,3 +29,21 @@ berwynnatanael@gmail.com
     </tr>
   </tbody>
 </table>
+
+<table width="50%", align="center">
+  <thead>
+    <tr>
+      <th width="100%" align="center"><a>Turn-based</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/e62fab0e-df47-4228-be6d-4228738ae311" alt="1" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/berwynnatanael/Turn-based">Read More</a></td> <!--link1-->
+    </tr>
+  </tbody>
+</table>
